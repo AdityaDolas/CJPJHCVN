@@ -1,5 +1,5 @@
-object hello{
-    def main(args: Array[String]): Unit = {
-          println("Hello, world!")
-            }
+object hello {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
 }
