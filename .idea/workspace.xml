@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0776749-b0ed-44ed-97a5-dbffdeeb3255" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scala/CSTART01.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/c++/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/c++/a.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programming/hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programming/hello.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +38,22 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scala" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.CFLOW006">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scala" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ScalaDS">
+    <configuration name="CFCTRL2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CFCTRL2" />
+      <module name="Programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CFLOW001" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="CFLOW001" />
       <module name="Programming" />
@@ -58,14 +68,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CSTART01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CSTART01" />
+    <configuration name="ScalaDS" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ScalaDS" />
       <module name="Programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="hello" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="hello" />
       <module name="Programming" />
       <method v="2">
@@ -74,10 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScalaDS" />
+        <item itemvalue="Application.hello" />
+        <item itemvalue="Application.CFCTRL2" />
         <item itemvalue="Application.CFLOW006" />
         <item itemvalue="Application.CFLOW001" />
-        <item itemvalue="Application.CSTART01" />
-        <item itemvalue="Application.hello" />
       </list>
     </recent_temporary>
   </component>
@@ -95,26 +106,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="780" y="205" width="469" height="388" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589135257276">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="780" y="205" width="469" height="388" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1589135257276" />
     <state x="444" y="315" width="467" height="166" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1589018517647">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="444" y="315" width="467" height="166" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.27.1366.741@0.27.1366.741" timestamp="1589018517647" />
-    <state width="1324" height="176" key="GridCell.Tab.0.bottom" timestamp="1589022543692">
+    <state width="641" height="65" key="GridCell.Tab.0.bottom" timestamp="1589135162554">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="176" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589022543692" />
-    <state width="1324" height="176" key="GridCell.Tab.0.center" timestamp="1589022543691">
+    <state width="641" height="65" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1589135162554" />
+    <state width="641" height="65" key="GridCell.Tab.0.center" timestamp="1589135162552">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="176" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1589022543691" />
-    <state width="1324" height="176" key="GridCell.Tab.0.left" timestamp="1589022543690">
+    <state width="641" height="65" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1589135162552" />
+    <state width="641" height="65" key="GridCell.Tab.0.left" timestamp="1589135162552">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="176" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1589022543690" />
-    <state width="1324" height="176" key="GridCell.Tab.0.right" timestamp="1589022543692">
+    <state width="641" height="65" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1589135162552" />
+    <state width="641" height="65" key="GridCell.Tab.0.right" timestamp="1589135162553">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="176" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1589022543691" />
+    <state width="641" height="65" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1589135162553" />
     <state x="194" y="32" width="977" height="731" key="SettingsEditor" timestamp="1589021440554">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
