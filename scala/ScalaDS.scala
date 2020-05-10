@@ -4,19 +4,23 @@ import java.io._
 
 object ScalaDS {
   def main(args: Array[String]): Unit = {
-    val source = Source.fromFile("matrix.txt")
+    val source = Source.fromFile("u.item")
+    val lines = source.getLines()
+    val result = lines.map(x => x.replace("http://us.imdb.com", " "))
+    // val source = Source.fromFile("matrix.txt)
     //    val lines = source.getLines()
     //    val matrix = lines.map(_.split(" ").map(_.toDouble)).toArray
     //    val u = lines.map(x => x.replace("T", "")).toArray
     //    source.close()
 
     //    val pw = new PrintWriter("rowSums.txt")
-    //    u.foreach{ row => pw.println(row)}
+    //    matrix.foreach{ row => pw.println(row)}
     //    pw.close()
 
-    val writer = new PrintWriter(new File("demo.txt"))
+    val writer = new PrintWriter(new File("u.item_clean"))
     //writer.write(source)
-    source.foreach(row => writer.print(row))
+    //val i = source.map(x => x.re)
+    result.foreach(row => writer.print(row))
     writer.close()
   }
 }
