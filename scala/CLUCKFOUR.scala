@@ -4,7 +4,7 @@ object CLUCKFOUR {
     var count = 0
     while (z > 0) {
       var a = scala.io.StdIn.readInt()
-      while (a > 0) {
+      while (a > 0) {int
         var b = a % 10
         if (b == 4) {
           count = count + 1
